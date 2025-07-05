@@ -1,5 +1,5 @@
 # 📝 sign-up-form
-### 📌 Very Simple Challenge by Front-End Mentor
+#### 📌 Very Simple Challenge by Front-End Mentor
 ## 🖥️ Desktop Design
 ![desktop-design](https://github.com/user-attachments/assets/fca7d1b4-44aa-436e-b72b-f47523f2c51c)
 ## 💡Active Design
